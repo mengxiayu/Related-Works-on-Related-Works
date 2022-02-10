@@ -1,4 +1,4 @@
-# Related-Works-on-Related-Works
+# Related Works on Related Works Study
 A reading list of NLP on scientific texts, especially in modeling citation behaviors.
 
 Subjects included: Citation Classification, Citation Generation, Citation Networks Study, etc.
